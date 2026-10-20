@@ -1,190 +1,85 @@
-👋 Olabode Goodness Daniel
+# Hi 👋, I'm Olabode Goodness Daniel
 
-Business Analyst | Data Analytics | Business Performance & Insights
+### Business Analyst | Data Analyst
 
-I use data and analytical thinking to investigate the problems behind business performance, helping uncover what is happening, why it may be happening, and what deserves attention next.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&width=435&lines=I+Investigate+Business+Performance;Turning+Data+Into+Business+Insights;Customer+Behaviour+%7C+Revenue+%7C+Retention;SQL+%7C+Excel+%7C+Tableau+%7C+Power+BI+%7C+Jira)](https://git.io/typing-svg)
 
-My focus is on business questions around customer behaviour, revenue performance, retention, product performance, and growth. I approach analytics by starting with the business problem, investigating the data, identifying meaningful patterns, and translating findings into actionable recommendations.
+I use data and analytical thinking to investigate business problems, uncover meaningful patterns, and help businesses understand what is happening, why it may be happening, and what deserves attention next.
 
-With a background in Mathematics and practical experience working with analytical tools, I bring logical reasoning, structured problem-solving, and a business-focused approach to data analysis.
+My focus is on customer behaviour, revenue performance, retention, and business improvement.
 
-«Data tells you what happened. Good analysis helps you investigate why.»
+## 🔎 What I Do
 
----
+- **Business Performance Analysis:** Investigating performance trends and identifying areas of concern.
+- **Customer Analytics:** Exploring customer behaviour, churn, and retention.
+- **Exploratory Data Analysis:** Identifying patterns, trends, and anomalies.
+- **Business Analysis:** Understanding problems, defining requirements, and identifying opportunities for improvement.
+- **Data-Driven Recommendations:** Translating findings into practical business insights.
 
-🔎 What I Focus On
+## 🛠️ Skills & Tools
 
-- Business Performance Analysis: Investigating revenue trends, performance changes, and potential business challenges.
-- Customer Analytics: Exploring customer behaviour, retention, and engagement.
-- Exploratory Data Analysis: Identifying patterns, trends, anomalies, and areas that need further investigation.
-- Business Analysis: Understanding business problems, defining questions, and identifying opportunities for improvement.
-- Data-Driven Recommendations: Translating analytical findings into practical insights that support decision-making.
+**Data Analytics:** Exploratory Data Analysis, Data Cleaning, Statistical Analysis, Data Visualization, Business Reporting
 
-My approach is simple:
+**Business Analysis:** Business Problem Investigation, Requirements Analysis, Process Improvement, Problem Definition, Decision Support
 
-Business Problem → Investigation → Analysis → Insight → Recommendation
+**Tools:** SQL, MySQL, Microsoft Excel, R, Tableau, Microsoft Power BI, Jira
 
-I believe the real value of analytics goes beyond presenting numbers. It lies in understanding what those numbers mean for the business.
+## 🚀 Featured Projects
 
----
+### 1. 📊 NovaMart, Business Performance & Recovery Analysis
 
-🛠️ Skills & Tools
+**Tools:** MySQL · Excel · Tableau
 
-Data Analytics
+An end-to-end business analytics project investigating the performance of a fictional e-commerce business using synthetic data.
 
-- Exploratory Data Analysis
-- Data Cleaning and Preparation
-- Trend and Pattern Analysis
-- Statistical Analysis
-- Data Visualization
-- Business Reporting
+**Focus:** Sales performance, product categories, delivery delays, customer ratings, and business recommendations.
 
-Business Analysis
+🔗 [Explore the NovaMart Project](https://github.com/OGD-5/Novamart-business-analysis)
 
-- Business Problem Investigation
-- Performance Analysis
-- Requirements and Problem Definition
-- Insight Communication
-- Data-Driven Decision Support
+### 2. 📉 Streamly, Customer Churn Analysis
 
-Technical Tools
+**Tools:** SQL · Tableau
 
-- SQL / MySQL
-- Microsoft Excel
-- R Programming
-- Tableau
-- Microsoft Power BI
+A customer analytics project investigating churn patterns, subscription plan performance, support ticket activity, and successful payment revenue.
 
----
+**Key findings:**
+- Overall customer churn rate of 16.17%.
+- Basic plan has the highest observed churn rate at 18.89%.
+- Customers with six or more support tickets have a much higher observed churn rate.
+- Technical and product issues account for the most support tickets among churned customers.
+- Standard generates the highest observed successful payment revenue among the three plans.
 
-🚀 Featured Projects
+🔗 [Explore the Streamly Project](https://github.com/OGD-5/streamly-customer-churn-analysis)
 
-📉 1. NovaMart, Business Performance & Recovery Analysis
+### 3. 🛍️ ShopSmart, Retail Analytics
 
-Tools: MySQL, Excel, Tableau
+**Tool:** Microsoft Excel
 
-An end-to-end business analytics case study exploring the performance of a fictional e-commerce business using synthetic data.
+A retail analytics project completed during the AnalystLab Africa Experience Lab Internship Programme, transforming retail data into an interactive executive performance dashboard.
 
-The project investigates sales performance, product categories, order delays, and customer ratings to identify important patterns, highlight areas of concern, and develop recommendations for further business action.
+**Focus:** Regional sales, category profitability, inventory stockouts, product returns, KPI development, and business recommendations.
 
-Key focus areas:
+🔗 [Explore the ShopSmart Project](https://github.com/OGD-5/ShopSmart-Retail-Analytics)
 
-- Business performance and sales trends
-- Product category analysis
-- Order fulfilment and delivery delays
-- Customer ratings
-- SQL-based investigation
-- Data visualization and business recommendations
+## 🧠 My Approach to Analytics
 
-🔗 "Explore the NovaMart Project" (https://github.com/OGD-5/Novamart-business-analysis)
+**Business Problem → Investigation → Analysis → Insight → Recommendation**
 
-### 📺 2. Streamly, Business & Data Analytics Project
+I believe the value of analytics goes beyond reporting numbers or building dashboards. It lies in asking better questions, investigating the evidence, and understanding what the findings mean for business decisions.
 
-**Tools:** Add the tools used in your project.
+## 🌱 Currently Building
 
-A practical analytics project focused on investigating data, identifying meaningful patterns, and developing insights that can support business understanding and decision-making.
+- Strengthening my SQL and analytical problem-solving skills.
+- Developing my Business Analysis capabilities.
+- Building practical projects around real-world business problems.
+- Exploring how AI can support analytics and business decision-making.
 
-**Key focus areas:**
-- Data preparation and analysis
-- Exploratory data analysis
-- Identifying patterns and trends
-- Business insights and interpretation
-- Communicating findings and recommendations
+## 📫 Let's Connect
 
-🔗 **[Explore the Streamly Project](https://github.com/OGD-5/streamly-customer-churn-analysis)**
-🛍️ 3. ShopSmart, Retail Analytics
-
-Tools: Microsoft Excel
-
-An end-to-end retail analytics project completed during the AnalystLab Africa Experience Lab Internship Programme.
-
-This project transformed raw retail datasets into a fully interactive Executive Performance Dashboard. The analysis uncovered critical insights regarding regional sales dominance, category profitability, and severe inventory stockouts, translating these findings into strategic business recommendations for C-suite decision-making.
-
-Key focus areas:
-
-- Relational data modeling and data preparation
-- Advanced Excel functions and KPI engineering
-- Interactive dashboard development (Pivot Tables, Charts, Slicers)
-- Revenue trend and product return rate analysis
-- Executive reporting and data-driven business recommendations
-
-🔗 "Explore the ShopSmart Project" (https://github.com/OGD-5/ShopSmart-Retail-Analytics)
-
-📂 Explore More Projects
-
-I'm building a portfolio of practical projects that demonstrate my analytical process, technical skills, and approach to solving business problems.
-
-🔗 "View All My Repositories" (https://github.com/OGD-5?tab=repositories)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ogdanalytics/)
+- 🐦 [X](https://x.com/O_G_D5)
+- 💻 [GitHub Repositories](https://github.com/OGD-5?tab=repositories)
 
 ---
 
-🧠 How I Approach Analytical Problems
-
-01. Understand the Business Problem
-
-Clarify what is happening, why it matters, and what needs to be understood.
-
-02. Define the Questions
-
-Identify the questions the analysis should answer and the information needed to investigate them.
-
-03. Investigate the Data
-
-Use appropriate tools and analytical methods to explore the data and test possible explanations.
-
-04. Identify Meaningful Insights
-
-Look for patterns, trends, unusual changes, and potential contributing factors.
-
-05. Connect Insights to Business Impact
-
-Explain what the findings may mean for business performance and decision-making.
-
-06. Recommend Next Steps
-
-Identify practical actions or further investigations that the evidence supports.
-
----
-
-🌱 Currently Building
-
-I'm continuing to strengthen my capabilities in Business Analytics and Data Analytics through structured learning, internship experience, and practical projects.
-
-My current priorities include:
-
-- Improving my SQL skills through practical analysis.
-- Developing my Business Analysis skills and problem-solving approach.
-- Building and documenting portfolio projects.
-- Exploring how AI can support business analysis, data workflows, and decision-making.
-
-My long-term goal is to combine analytical thinking, business understanding, and technology to solve meaningful business problems.
-
----
-
-🤝 Let's Connect
-
-I'm interested in connecting with people and organisations working on business problems that can benefit from data and analytical thinking.
-
-I'm open to:
-
-- Business Analytics and Data Analytics opportunities
-- Collaborative and volunteer projects
-- Practical business and data challenges
-- Professional networking and knowledge-sharing
-
-🔗 LinkedIn: "Connect with me" (https://www.linkedin.com/in/ogdanalytics/)
-
-🐦 X: "Follow my journey" (https://x.com/O_G_D5)
-
----
-
-📌 My Perspective
-
-I don't see analytics as simply creating dashboards or reporting numbers.
-
-I see it as a process of asking better questions, investigating evidence, challenging assumptions, and helping businesses understand where attention is needed.
-
-The goal is not just to show what happened, but to investigate what may have driven it and what should happen next.
-
-
-
+*I investigate the questions behind business performance, helping businesses understand not just what happened, but what may be driving it.*
