@@ -61,6 +61,16 @@ A retail analytics project completed during the AnalystLab Africa Experience Lab
 
 🔗 [Explore the ShopSmart Project](https://github.com/OGD-5/ShopSmart-Retail-Analytics)
 
+### 4. 🌍 Global Superstore, Business Intelligence & Retail Analytics
+
+**Tools:** Microsoft Power BI · Power Query · DAX
+
+A comprehensive Business Intelligence case study completed during the AnalystLab Africa Experience Lab Internship Programme, transforming 50,000+ raw sales records into an interactive executive performance dashboard.
+
+**Focus:** Global sales trends, product category profitability, regional market performance, supply chain risks, and strategic recommendations.
+
+🔗 [Explore the Global Superstore Project](https://github.com/OGD-5/Global-Superstore-Online-and-retail-Analytics-)
+
 ## 🧠 My Approach to Analytics
 
 **Business Problem → Investigation → Analysis → Insight → Recommendation**
