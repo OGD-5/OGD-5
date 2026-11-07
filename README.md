@@ -71,6 +71,21 @@ A comprehensive Business Intelligence case study completed during the AnalystLab
 
 🔗 [Explore the Global Superstore Project](https://github.com/OGD-5/Global-Superstore-Online-and-retail-Analytics-)
 
+### 5. 🏥 Healthcare Dataset Analysis
+
+**Tools:** MySQL · Power BI · Power Query
+
+A healthcare analytics project completed during the AnalystLab Africa Experience Lab Internship Programme, transforming administrative hospital records into an interactive executive performance dashboard.
+
+**Key findings:**
+- Uncovered a massive $70.42M financial gap (69.3%) between total billed claims and actual payer coverage.
+- The "NO_INSURANCE" category represents the largest financial exposure, accounting for $49.26M in claims.
+- Ambulatory care drives the hospital's workload, making up 44.95% of total daily encounters.
+- Extended patient stays are extremely rare, with only 58 out of 27,891 encounters lasting longer than 24 hours.
+
+🔗 [Explore the Healthcare Dataset Analysis Project](https://github.com/OGD-5/healthcare-Dataset-Analysis)
+
+
 ## 🧠 My Approach to Analytics
 
 **Business Problem → Investigation → Analysis → Insight → Recommendation**
