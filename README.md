@@ -119,7 +119,7 @@ The project focused on understanding complaint trends, identifying major product
 
 **Tools:** Power BI, Power Query, DAX
 
-👉 [Explore the project repository:](https://github.com/OGD-5/Consumer-Complaint-Trends-Response-Intelligence)
+👉 [Explore the Consumer Complaint Trends & Response Intelligence project:](https://github.com/OGD-5/Consumer-Complaint-Trends-Response-Intelligence)
 
 ## 📫 Let's Connect
 
