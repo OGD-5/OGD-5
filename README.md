@@ -99,6 +99,28 @@ I believe the value of analytics goes beyond reporting numbers or building dashb
 - Building practical projects around real-world business problems.
 - Exploring how AI can support analytics and business decision-making.
 
+### 6. 📊 Consumer Complaint Trends & Response Intelligence
+
+**Business Analytics Project | Power BI | Power Query | DAX**
+
+An analysis of Consumer Financial Protection Bureau (CFPB) complaint records relating to Bank of America, covering 2017–2023.
+
+The project focused on understanding complaint trends, identifying major product-related complaint areas, and examining response timelines.
+
+**Project focus:**
+- Consumer complaint trend analysis
+- Product and issue category analysis
+- Complaint response and forwarding timelines
+- KPI development using DAX
+- Data transformation with Power Query
+- Interactive, four-page Power BI dashboard
+
+**Key takeaway:** Turning consumer complaint data into insights that can help organisations understand customer friction points and identify areas that may require operational attention.
+
+**Tools:** Power BI, Power Query, DAX
+
+👉 [Explore the project repository:](https://github.com/OGD-5/Consumer-Complaint-Trends-Response-Intelligence)
+
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ogdanalytics/)
