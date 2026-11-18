@@ -121,6 +121,14 @@ The project focused on understanding complaint trends, identifying major product
 
 👉 [Explore the Consumer Complaint Trends & Response Intelligence project:](https://github.com/OGD-5/Consumer-Complaint-Trends-Response-Intelligence)
 
+### 6. Morocco Electricity Consumption & Environmental Analysis | Python**
+
+Exploratory analysis of 52,416 electricity consumption and weather observations across three geographical zones in Morocco (2017).
+
+**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly.
+
+Explored electricity demand patterns, seasonal variations, zone-level differences, and relationships between consumption and environmental factors. Translated findings into practical recommendations for energy planning and grid management.
+
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ogdanalytics/)
