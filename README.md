@@ -129,7 +129,7 @@ Exploratory analysis of 52,416 electricity consumption and weather observations 
 
 Explored electricity demand patterns, seasonal variations, zone-level differences, and relationships between consumption and environmental factors. Translated findings into practical recommendations for energy planning and grid management.
 
-7. ### 06. 📈 S&P 500 Stock Market Performance & Business Intelligence Platform
+### 7. 📈 S&P 500 Stock Market Performance & Business Intelligence Platform
 
 **Financial Analytics | AnalystLab Africa Experience Lab Internship**
 
