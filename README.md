@@ -129,6 +129,25 @@ Exploratory analysis of 52,416 electricity consumption and weather observations 
 
 Explored electricity demand patterns, seasonal variations, zone-level differences, and relationships between consumption and environmental factors. Translated findings into practical recommendations for energy planning and grid management.
 
+7. ### 06. 📈 S&P 500 Stock Market Performance & Business Intelligence Platform
+
+**Financial Analytics | AnalystLab Africa Experience Lab Internship**
+
+**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly.
+
+Built an end-to-end financial market analytics pipeline examining 497,472 historical stock records across 505 S&P 500 companies (2014–2017), with a four-page interactive Plotly dashboard.
+
+**Key Focus Areas:**
+- Historical stock performance and cumulative returns.
+- Risk and volatility analysis.
+- Trading volume and liquidity analysis.
+- Comparative analysis of six selected stocks.
+- Financial KPI development and data quality validation.
+
+**Key Findings:** NVIDIA recorded the highest cumulative return among the stocks highlighted in the analysis, while the comparison also revealed that higher volatility does not necessarily translate to stronger returns.
+
+🔗 **Explore the S&P 500 Market Analytics Project:** [https://github.com/OGD-5/S-P-500-Stock-Market-Performance-Business-Intelligence-Platform-2014-2017-]
+
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ogdanalytics/)
